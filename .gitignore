@@ -1,0 +1,13 @@
+/build/
+/out/
+/dist/
+/web/node_modules/
+/web/dist/
+/models/
+*.wav
+*.mp3
+.DS_Store
+.idea/
+.vscode/
+*.user
+CMakeUserPresets.json
